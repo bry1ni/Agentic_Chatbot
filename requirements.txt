@@ -1,3 +1,4 @@
 langchain-fireworks
 langchain_huggingface
 langchain_openai
+streamlit
